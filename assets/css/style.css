@@ -1,0 +1,39 @@
+body {
+	background-size: 1300px 750px;
+}
+
+.titlepage {
+	background-color: whitesmoke;
+	width: 700px;
+  height: 100px;
+  text-align: center;
+	margin: auto;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  margin-top: 20px;
+}
+
+#timer {
+  padding-top: 20px;
+  text-align: center;
+  margin: auto;
+}
+
+.section2{
+  background-color: grey;
+}
+
+.section1 {
+	width: 500px;
+  margin: auto;
+  background-color:whitesmoke;
+}
+
+.question{
+  padding: 10px;
+}
+
+#submit{
+  text-align: center;
+	margin: auto;
+}
